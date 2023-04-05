@@ -7,8 +7,8 @@ Software Engineer & Web Developer
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio [over here](http://jv-vogler.github.io/portfolio)
 * ✉️  You can contact me at [jvsvogler@gmail.com](mailto:jvsvogler@gmail.com)
-* 🚀  I'm currently working on [Voltorb Flip](http://voltorbflip.vercel.app/)
-* 🧠  I'm learning Next.js and Astro
+* 🚀  I'm currently working on [GitHire](https://github.com/jv-vogler/git-hire)
+* 🧠  I'm learning Next.js, Astro and GraphQL
 * ⚡  I'm currently looking for an opportunity as a junior front-end developer
 
 ### Skills
