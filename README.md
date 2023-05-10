@@ -7,7 +7,7 @@ Software Engineer & Web Developer
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  Check out my portfolio [over here](http://jv-vogler.github.io/portfolio)
 * ✉️  You can contact me at [jvsvogler@gmail.com](mailto:jvsvogler@gmail.com)
-* 🚀  I'm currently working on this project: [GitHire](https://github.com/jv-vogler/git-hire)
+* 🚀  I'm currently working on this project: [FetchHire](https://github.com/jv-vogler/fetch-hire)
 * 🧠  I'm learning Next.js and Astro
 * ⚡  I'm currently looking for an opportunity as a junior front-end developer
 
