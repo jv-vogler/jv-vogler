@@ -32,4 +32,6 @@ Software Engineer & Web Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jv-vogler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jv_vogler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jv-vogler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[<img  alt="Discord" width="32px" style="padding-right: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />](https://discordapp.com/users/247765019750563841 'jv264')
+[<img  alt="Instagram" width="32px" style="padding-right: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />](http://www.instagram.com/jv_vogler 'jv_vogler')
+[<img  alt="LinkedIn" width="32px" style="padding-right: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />](https://www.linkedin.com/in/jv-vogler 'jv-vogler')
